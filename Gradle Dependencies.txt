@@ -5,7 +5,7 @@ maven {url "https://jitpack.io"}
 implementation 'androidx.coordinatorlayout:coordinatorlayout:1.1.0'
 
 => For Material Component
-implementation 'com.google.android.material:material:1.2.0-alpha04'
+implementation 'com.google.android.material:material:1.2.0-alpha05'
 
 => For CardView
 implementation 'androidx.cardview:cardview:1.0.0'
